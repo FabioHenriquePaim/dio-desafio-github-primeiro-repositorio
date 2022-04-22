@@ -1,0 +1,11 @@
+git status
+O comando git status exibe a lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados ou confirmados. Uso:
+
+git status
+
+
+git add
+O comando git add pode ser usado para adicionar arquivos ao índice. Por exemplo, o seguinte comando irá adicionar um arquivo chamado anotacoes.txt presente no diretório local para o índice:
+
+git add anotacoes.txt
+
